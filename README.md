@@ -30,6 +30,7 @@
 </p>
 </h1>
 
+<a href="https://aroject.onrender.com/" style="color: red; font-family: Arial, sans-serif; font-size: 16px;">  My Portfolio </a>
 <br/>
 <img align="left" src="https://github.com/avadootharajesh/avadootharajesh/blob/main/devimg2.jpg?raw=true" alt="I chang with Sora the original picture, i dont know the artist" width="300" />
 <!-- <br/> -->
@@ -50,7 +51,6 @@ avadootharajesh@github
 🚀 Passionate about Full Stack development, ML and Web3
 💡 Always looking for ways to improve and build creative ideas
 🎧 I love to stay calm and listen to peaceful music
-
 
 
 
